@@ -1,0 +1,1 @@
+Alle fünf Webdateien in den Hauptordner des bestehenden GitHub-Repository hochladen. index.html ersetzen. Supabase unverändert. iPhone: Safari > Teilen > Zum Home-Bildschirm. OCR benötigt Internet und lädt Tesseract im Browser; Ergebnisse bestätigen. Kein Offline-Modus. Mitarbeiterrechte und Historie unverändert.
